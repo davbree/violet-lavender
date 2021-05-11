@@ -79,9 +79,6 @@ sections:
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
     actions:
-      - label: Let's start
-        url: /contact
-        style: button
       - label: lorem-ipsum
         url: '#'
         style: link
